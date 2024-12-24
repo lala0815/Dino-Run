@@ -62,8 +62,4 @@ python dino_game.py
 - 能適應不斷增加的遊戲速度
 - 可處理連續的障礙物
 
-## 開發相關
-
-- 使用 Python 3.x 開發
-- 使用 Pygame 遊戲引擎
-- 模組化的程式設計
+## 用CurSor製作
